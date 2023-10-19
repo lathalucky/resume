@@ -1,0 +1,85 @@
+body{
+    background-color: purple;
+    margin-left:50px;
+    margin-right: 50px;
+    margin-bottom: 60px;
+    margin-top:50px ;
+    font-family: sans-serif;
+}
+div{
+    background-color:aqua;
+    margin: 10px;
+    border-style: 2px solid white;
+    border-radius: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+}
+table{
+    border-collapse: collapse;
+    border-radius: 20px;
+    width: 100%;
+    text-align: center;
+}
+h1{
+    padding-top: 30px;
+    color: aliceblue;
+}
+p{
+    color:red ;
+}
+img {
+width: 200px;
+height: 200px;
+border-radius: 25%;
+box-shadow: 0 0 20px black;
+}
+user agent stylesheet
+img {
+overflow-clip-margin: content-box;
+overflow: clip;
+}
+
+
+.map{
+width: auto;
+height: auto;
+align-items: center;
+padding-right: 500px;
+padding-top: 20px;
+}
+
+.box{
+width: 300px;
+height: 200px;
+display: block;
+box-shadow: 0 0 10px black;
+box-shadow: 0 00 10px black;
+margin: 30px;
+padding-top: 15px;
+background-color: aliceblue;
+
+}
+.flex-div{
+display:flex;
+color: blue;
+background-color:white;
+margin:40px;
+padding: 30px;
+}
+.capsule{
+border: 4px groove blue;
+margin-left:50px;
+margin-right: 50px;
+padding:10px;
+width:80px;
+text-align:  center;
+border-radius:50px;
+border-color: orchid;
+}
+li{
+color: black;
+}
+span{
+color: blue;
+}
