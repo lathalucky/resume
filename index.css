@@ -40,7 +40,6 @@ overflow-clip-margin: content-box;
 overflow: clip;
 }
 
-
 .map{
 width: 150 px;
 height: 150 px;
@@ -64,8 +63,8 @@ background-color: aliceblue;
 display:flex;
 color: blue;
 background-color:white;
-margin:40px;
-padding: 30px;
+margin:30px;
+padding:30px;
 }
 .capsule{
 border: 4px groove blue;
